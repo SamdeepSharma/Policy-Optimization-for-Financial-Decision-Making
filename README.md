@@ -147,6 +147,5 @@ If you'd like, I can:
 
 ---
 
-Author: Generated from the repository notebooks — follow the steps above to
-reproduce the results. If anything fails on your machine, share the error
-message and I will help debug the environment-specific issue.
+Author: Samdeep Sharma (102217183)
+
